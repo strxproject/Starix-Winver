@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Patrick\\source\\repos\\StarixWinVer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|StarixWinVer||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E39F30-FD0A-4599-996E-E05340DCB4D5}|StarixWinVer.csproj|C:\\Users\\Patrick\\source\\repos\\StarixWinVer\\winver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24E39F30-FD0A-4599-996E-E05340DCB4D5}|StarixWinVer.csproj|solutionrelative:winver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E39F30-FD0A-4599-996E-E05340DCB4D5}|StarixWinVer.csproj|c:\\users\\patrick\\source\\repos\\starixwinver\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StarixWinVer",
+              "DocumentMoniker": "C:\\Users\\Patrick\\source\\repos\\StarixWinVer\\StarixWinVer.csproj",
+              "RelativeDocumentMoniker": "StarixWinVer.csproj",
+              "ToolTip": "C:\\Users\\Patrick\\source\\repos\\StarixWinVer\\StarixWinVer.csproj",
+              "RelativeToolTip": "StarixWinVer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-25T14:00:08.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Winver.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Patrick\\source\\repos\\StarixWinVer\\Winver.cs",
+              "RelativeDocumentMoniker": "Winver.cs",
+              "ToolTip": "C:\\Users\\Patrick\\source\\repos\\StarixWinVer\\Winver.cs [Design]",
+              "RelativeToolTip": "Winver.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:27:19.122Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1508,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
